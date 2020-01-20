@@ -1,0 +1,11 @@
+package org.zerock.sample;
+
+
+import org.junit.runner.RunWith;
+
+
+@RunWith(SpringJUnit4ClassRunner.class)
+@ContextConfiguration
+public class SampleTests {
+
+}

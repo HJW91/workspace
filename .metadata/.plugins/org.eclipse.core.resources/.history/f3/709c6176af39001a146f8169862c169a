@@ -1,0 +1,5 @@
+package com.zerock.exception;
+
+public class CommonExceptionAdvice {
+
+}

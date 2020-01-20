@@ -1,0 +1,17 @@
+package org.zerock.persistence;
+
+import org.
+@Log4j
+public class JDBCTests {
+	static {
+		try {
+			
+		}catch(Exception e) {
+			
+		}
+	}
+	
+	
+	
+	
+}
