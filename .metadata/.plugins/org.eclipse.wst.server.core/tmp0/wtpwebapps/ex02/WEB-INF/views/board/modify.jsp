@@ -6,7 +6,7 @@
 <%@ include file="../includes/header.jsp" %>
             <div class="row">
                 <div class="col-lg-12">
-                    <h1 class="page-header">Board Register</h1>
+                    <h1 class="page-header">Board Modify Page</h1>
                 </div>
                 <!-- /.col-lg-12 -->
             </div>
@@ -16,11 +16,13 @@
                 <div class="col-lg-12">
                     <div class="panel panel-default">
                         <div class="panel-heading">
-                            Board Read Page
+                            Board Modify Page
                         </div>
                         <!-- /.panel-heading -->
                         <div class="panel-body">
                         	<form action="/board/modify" method="post">
+                        		<input type="hidden" name="pageNum" value="<c:out value='${cri.pageNum }'/>">
+                        		<input type="hidden" name="pageNum" value="<c:out value='${cri.amount }'/>">
 	                        	<div class="form-group">
 	                        		<label>Bno</label>
 	                        		<input class="form-control" name="bno" value='<c:out value="${board.bno}" />' readonly="readonly">
