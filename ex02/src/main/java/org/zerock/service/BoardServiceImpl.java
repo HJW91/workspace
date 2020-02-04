@@ -63,7 +63,7 @@ public class BoardServiceImpl implements BoardService{
 	public int getTotal(Criteria cri) {
 		// TODO Auto-generated method stub
 		log.info("get total count");
-		
+		//System.out.println("BoardServiceImpl.getTotal() is called");
 		return mapper.getTotalCount(cri);
 	}
 	
