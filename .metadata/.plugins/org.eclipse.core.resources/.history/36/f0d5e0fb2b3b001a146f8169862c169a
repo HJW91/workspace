@@ -1,6 +1,0 @@
-package org.zerock.mapper;
-
-public class BoardMapper {
-	@Select("select * from tbl_board where bno > 0")
-	public List<BoardVO> getList();
-}

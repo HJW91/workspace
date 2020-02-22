@@ -1,8 +1,0 @@
-package org.zerock.controller;
-
-import lombok.Data;
-
-
-public class AbcController {
-
-}

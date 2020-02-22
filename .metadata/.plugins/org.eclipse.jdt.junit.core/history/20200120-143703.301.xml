@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="BoardServiceTests" project="ex02" tests="2" started="2" failures="0" errors="0" ignored="0">
-  <testsuite name="org.zerock.service.BoardServiceTests" time="0.348">
-    <testcase name="testExist" classname="org.zerock.service.BoardServiceTests" time="0.001"/>
-    <testcase name="testRegister" classname="org.zerock.service.BoardServiceTests" time="0.347"/>
-  </testsuite>
-</testrun>
