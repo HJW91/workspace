@@ -15,11 +15,12 @@ import lombok.extern.log4j.Log4j;
 public class SampleTxServiceTests {
 	@Setter(onMethod_ = {@Autowired})
 	private SampleTxService service;
-	
+	/*
 	@Test
 	public void testLong() {
 		String str = "starry starry night Paint your palette blue and grey Look out on a Summer's day";
 		log.info(str.getBytes().length);
 		service.addData(str);
 	}
+	*/
 }
