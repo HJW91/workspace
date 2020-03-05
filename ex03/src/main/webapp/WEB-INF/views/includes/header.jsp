@@ -1,6 +1,6 @@
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="kr">
 
 <head>
 
@@ -36,6 +36,62 @@
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
+
+	<!-- p.555 -->
+	<style>
+		.uploadResult {
+			width	:	100%;
+			background-color	:	gray;
+		}
+		
+		.uploadResult ul {
+			display	:	plex;
+			flex-flow	:	row;
+			justify-content	:	center;
+			align-items	:	center;
+		}
+		
+		.uploadResult ul li {
+			list-style	:	none;
+			padding	:	10px;
+			align-center	:	center;
+			text-align	:	center;
+		}
+		
+		.uploadResult ul li img {
+			width	:	100px;
+		}
+		
+		.uploadResult ul li span {
+			color	:	white;
+		}
+		
+		.bigPictureWrapper {
+			position	:	absoulte;
+			display	:	none;
+			justify-content	:	center;
+			align-items	:	center;
+			top	:	0%;
+			width	:	100%;
+			height	:	100%;
+			background-color	:	gray;
+			z-index	:	100;
+			background	:	rgba(255,255,255,0.5);
+		}
+		
+		.bigPicture {
+			position	:	relative;
+			display	:	flex;
+			justify-content	:	center;
+			align-items	:	center;
+		}
+		
+		.bigPicture img {
+			width	:	600px;
+		}
+	</style>
+
+
 
 </head>
 

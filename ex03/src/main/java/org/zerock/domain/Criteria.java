@@ -16,6 +16,8 @@ public class Criteria {
 	private String type;
 	private String keyword;
 	
+	//private String [] typeArr;
+	
 	public Criteria() {
 		this(1,10);
 	}
@@ -23,7 +25,7 @@ public class Criteria {
 		this.pageNum = pageNum;
 		this.amount = amount;
 	}
-	public String [] getTypeAddr() {
+	public String [] getTypeArr() {
 		return type==null? new String[] {} : type.split("");
 	}
 	public String getListLink() {
