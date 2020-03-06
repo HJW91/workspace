@@ -1,5 +1,7 @@
 package org.zerock.domain;
 
+import java.util.List;
+
 import org.springframework.web.util.UriComponentsBuilder;
 
 import lombok.Getter;
@@ -37,4 +39,5 @@ public class Criteria {
 		
 		return builder.toUriString();				
 	}
+	
 }
