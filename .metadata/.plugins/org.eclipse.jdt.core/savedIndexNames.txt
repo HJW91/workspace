@@ -37,7 +37,6 @@ INDEX VERSION 1.131+E:\GitHub\workspace\.metadata\.plugins\org.eclipse.jdt.core
 3734937067.index
 1659893894.index
 4289135590.index
-223198443.index
 2106131817.index
 2778577771.index
 3828226526.index
