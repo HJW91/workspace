@@ -1,15 +1,12 @@
 INDEX VERSION 1.4+E:\GitHub\workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
 223198443.index
 4082280333.index
-3340328501.index
 2283159039.index
 2109929817.index
 2283159039.index
 3008728381.index
-2923843353.index
 4024411519.index
 3830362035.index
 3828226526.index
-2185909724.index
 3909871509.index
 628261260.index
