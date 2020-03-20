@@ -15,7 +15,7 @@
 	
 	<form method="post" action="/login">
 		<div>
-			<input type="text" name="username" vaklue="admin">
+			<input type="text" name="username" value="admin">
 		</div>		
 		<div>
 			<input type="password" name="password" value="admin">

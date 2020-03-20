@@ -2,4 +2,5 @@
 <aop-reference-model>
 <aop-project name="ex03"/>
 <aop-project name="ex05"/>
+<aop-project name="ex06"/>
 </aop-reference-model>
