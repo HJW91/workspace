@@ -67,6 +67,7 @@ public class MemberTests {
 		}
 	}
 	*/
+	
 	@Test
 	public void testInsertAuth() {
 		String sql = "insert into tbl_member_auth (userid, auth) values (?,?)";
@@ -105,4 +106,5 @@ public class MemberTests {
 			}
 		}
 	}
+		
 }
