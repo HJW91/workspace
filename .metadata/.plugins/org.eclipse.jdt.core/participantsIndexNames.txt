@@ -11,3 +11,5 @@ E:\GitHub\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\218590
 \ex03\src\main\java
 E:\GitHub\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2577869071.index
 \ex06\src\main\java
+E:\GitHub\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1923964915.index
+\test01\src\main\java
